@@ -1,4 +1,9 @@
 # Laravel Log Reader
+
+## This is a fork of https://github.com/JackieDo/Laravel-Log-Reader
+
+Since the original repo is unresponsive, and I need a quick update, I temporarily fork this repo until the original repo gets updated again.
+
 [![Latest Stable Version](https://poser.pugx.org/jackiedo/log-reader/v/stable)](https://packagist.org/packages/jackiedo/log-reader)
 [![Total Downloads](https://poser.pugx.org/jackiedo/log-reader/downloads)](https://packagist.org/packages/jackiedo/log-reader)
 [![Latest Unstable Version](https://poser.pugx.org/jackiedo/log-reader/v/unstable)](https://packagist.org/packages/jackiedo/log-reader)
